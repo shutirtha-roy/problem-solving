@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\ref\URI2413_BuscanaInternet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\bin\Debug\net5.0\URI2413_BuscanaInternet.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\ref\URI2413_BuscanaInternet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2413_BuscanaInternet\obj\Debug\net5.0\URI2413_BuscanaInternet.genruntimeconfig.cache

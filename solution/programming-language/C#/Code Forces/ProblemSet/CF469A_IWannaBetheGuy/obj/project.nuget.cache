@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIX+9S4yqlvYtMcrOlA9xxb+ZMktoK17l10TPmxC0GonFL+TLyLZLmhLOTvVoqrS6pAHZ4hROZc7foPvYN/eBg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF469A_IWannaBetheGuy\\CF469A_IWannaBetheGuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

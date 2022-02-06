@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF158B_Taxi/1.0.0": {
+        "runtime": {
+          "CF158B_Taxi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF158B_Taxi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

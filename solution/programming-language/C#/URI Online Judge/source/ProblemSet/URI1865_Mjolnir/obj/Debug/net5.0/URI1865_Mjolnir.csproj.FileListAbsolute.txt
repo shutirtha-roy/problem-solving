@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\ref\URI1865_Mjolnir.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\bin\Debug\net5.0\URI1865_Mjolnir.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\ref\URI1865_Mjolnir.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1865_Mjolnir\obj\Debug\net5.0\URI1865_Mjolnir.genruntimeconfig.cache

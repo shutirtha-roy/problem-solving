@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\ref\CF791A_BearandBigBrother.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\bin\Debug\net5.0\CF791A_BearandBigBrother.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\ref\CF791A_BearandBigBrother.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF791A_BearandBigBrother\obj\Debug\net5.0\CF791A_BearandBigBrother.genruntimeconfig.cache

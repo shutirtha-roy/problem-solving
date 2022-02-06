@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwwhyWjMBiyAmHKe5eVO9p6ktY5bAWriE6RU5DgWyZNGHX89tbmm1pTXaxlEjUkhAtp2xENjnqVrRt1DD9lArw==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF467_GeorgeandAccommodation\\CF467_GeorgeandAccommodation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

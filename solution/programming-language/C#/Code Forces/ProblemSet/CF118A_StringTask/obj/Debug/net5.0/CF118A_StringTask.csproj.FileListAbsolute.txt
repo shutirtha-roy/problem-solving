@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\ref\CF118A_StringTask.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\bin\Debug\net5.0\CF118A_StringTask.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\ref\CF118A_StringTask.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF118A_StringTask\obj\Debug\net5.0\CF118A_StringTask.genruntimeconfig.cache

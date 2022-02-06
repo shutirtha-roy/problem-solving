@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI1929_Triangle/1.0.0": {
+        "runtime": {
+          "URI1929_Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI1929_Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

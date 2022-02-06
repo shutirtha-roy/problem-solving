@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\ref\CF977A_WrongSubtraction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\bin\Debug\net5.0\CF977A_WrongSubtraction.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\ref\CF977A_WrongSubtraction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF977A_WrongSubtraction\obj\Debug\net5.0\CF977A_WrongSubtraction.genruntimeconfig.cache

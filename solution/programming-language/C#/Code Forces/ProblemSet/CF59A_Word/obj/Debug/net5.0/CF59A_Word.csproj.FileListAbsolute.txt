@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\ref\CF59A_Word.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\bin\Debug\net5.0\CF59A_Word.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\ref\CF59A_Word.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF59A_Word\obj\Debug\net5.0\CF59A_Word.genruntimeconfig.cache

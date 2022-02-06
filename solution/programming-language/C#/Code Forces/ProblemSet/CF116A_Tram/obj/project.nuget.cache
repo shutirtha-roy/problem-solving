@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eByUlua+/fYJQoB4M5IkDISE2f5/76cLrf7fGOgX6+hv/uHJIeniS6N97sS8C/XloKJSpnYkcTMXYpsDk5Ge5w==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF116A_Tram\\CF116A_Tram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQgFWGN4mROU2wxaVSq5WS9ahMUKkBA+NoKVQZBz0mCO0097gSdp/FsxfE5OPZ8/HGVViHBKnlPEAw0yEUiJHA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF263A_BeautifulMatrix\\CF263A_BeautifulMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

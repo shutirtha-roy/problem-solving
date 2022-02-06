@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Km0RKbAZCQmhsqYPLEB9EAFJCqSOHb8ErN5d7ofnjFHRHw+KxJ6r+NuxKLSHVGfViFqNtGxp4FHPYyVXrN2dNg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF236A_BoyorGirl\\CF236A_BoyorGirl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWz5BYwLQg5z03GilM+oIzvtQK4xD+CFW8J9YneeZUWd3JQmEYxzP9M8EXPTnfU3BbO4+GgrtCEGaoUmaTYuNQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF486_CalculatingFunction\\CF486_CalculatingFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

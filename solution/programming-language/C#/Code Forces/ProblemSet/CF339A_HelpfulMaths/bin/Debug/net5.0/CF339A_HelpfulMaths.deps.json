@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF339A_HelpfulMaths/1.0.0": {
+        "runtime": {
+          "CF339A_HelpfulMaths.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF339A_HelpfulMaths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

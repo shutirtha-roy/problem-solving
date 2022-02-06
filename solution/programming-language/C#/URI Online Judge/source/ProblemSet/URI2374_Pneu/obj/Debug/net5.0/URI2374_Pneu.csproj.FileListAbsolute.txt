@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\ref\URI2374_Pneu.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\bin\Debug\net5.0\URI2374_Pneu.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\ref\URI2374_Pneu.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2374_Pneu\obj\Debug\net5.0\URI2374_Pneu.genruntimeconfig.cache

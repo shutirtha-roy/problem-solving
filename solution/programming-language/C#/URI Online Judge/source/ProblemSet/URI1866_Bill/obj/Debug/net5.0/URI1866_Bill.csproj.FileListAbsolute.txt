@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\ref\URI1866_Bill.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\bin\Debug\net5.0\URI1866_Bill.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\ref\URI1866_Bill.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1866_Bill\obj\Debug\net5.0\URI1866_Bill.genruntimeconfig.cache

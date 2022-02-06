@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\ref\CF281A_WordCapitalization.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\bin\Debug\net5.0\CF281A_WordCapitalization.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\ref\CF281A_WordCapitalization.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF281A_WordCapitalization\obj\Debug\net5.0\CF281A_WordCapitalization.genruntimeconfig.cache

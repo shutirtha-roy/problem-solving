@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI3157_LongLiveScience/1.0.0": {
+        "runtime": {
+          "URI3157_LongLiveScience.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI3157_LongLiveScience/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

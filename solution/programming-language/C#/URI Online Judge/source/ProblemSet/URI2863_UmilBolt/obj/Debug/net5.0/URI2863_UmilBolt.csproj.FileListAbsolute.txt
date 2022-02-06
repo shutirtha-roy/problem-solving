@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\ref\URI2863_UmilBolt.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\bin\Debug\net5.0\URI2863_UmilBolt.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\ref\URI2863_UmilBolt.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2863_UmilBolt\obj\Debug\net5.0\URI2863_UmilBolt.csproj.AssemblyReference.cache

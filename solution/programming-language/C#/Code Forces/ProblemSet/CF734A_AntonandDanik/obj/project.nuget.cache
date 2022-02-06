@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9V0x8fRD61aSgTYuxTUAtYB3EnfC5zab5Ihv4C8ZZ43bNxm5QHRiqXAz7xuxrClRkzcXLpjZw44YbGg8CJbU1g==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF734A_AntonandDanik\\CF734A_AntonandDanik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

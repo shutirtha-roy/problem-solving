@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\ref\CF546A_SoldierandBananas.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\bin\Debug\net5.0\CF546A_SoldierandBananas.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\ref\CF546A_SoldierandBananas.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF546A_SoldierandBananas\obj\Debug\net5.0\CF546A_SoldierandBananas.genruntimeconfig.cache

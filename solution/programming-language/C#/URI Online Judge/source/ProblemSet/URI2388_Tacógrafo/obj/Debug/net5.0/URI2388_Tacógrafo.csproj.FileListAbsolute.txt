@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\ref\URI2388_Tacógrafo.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\bin\Debug\net5.0\URI2388_Tacógrafo.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\ref\URI2388_Tacógrafo.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2388_Tacógrafo\obj\Debug\net5.0\URI2388_Tacógrafo.genruntimeconfig.cache

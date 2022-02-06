@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\ref\URI2748_Output2.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\bin\Debug\net5.0\URI2748_Output2.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\ref\URI2748_Output2.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2748_Output2\obj\Debug\net5.0\URI2748_Output2.csproj.AssemblyReference.cache

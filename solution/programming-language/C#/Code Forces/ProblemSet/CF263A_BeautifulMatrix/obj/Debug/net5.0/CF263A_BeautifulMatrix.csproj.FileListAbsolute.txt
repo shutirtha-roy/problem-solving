@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\ref\CF263A_BeautifulMatrix.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\bin\Debug\net5.0\CF263A_BeautifulMatrix.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\ref\CF263A_BeautifulMatrix.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF263A_BeautifulMatrix\obj\Debug\net5.0\CF263A_BeautifulMatrix.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZms102uMe5ZWguEbMLLdlZ3YjyNC7EZ3GtPNtNUKL8vHQjvrBFN5XiDM3r51/0cz/6n7owJRqqyx6D8N9Jzrg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF131A_cAPSlOCK\\CF131A_cAPSlOCK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

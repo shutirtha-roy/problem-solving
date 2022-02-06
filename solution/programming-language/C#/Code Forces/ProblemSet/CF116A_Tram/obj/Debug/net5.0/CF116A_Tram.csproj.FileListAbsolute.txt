@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\ref\CF116A_Tram.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\bin\Debug\net5.0\CF116A_Tram.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\ref\CF116A_Tram.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF116A_Tram\obj\Debug\net5.0\CF116A_Tram.genruntimeconfig.cache

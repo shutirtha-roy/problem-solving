@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5mJDZAcuC72JV8B6qycj95Rfs72ub31zQr+5vI4Tt1fmg0Anrv+TTlsPSazHshR9mSWPhpnvgnwxTfv4adomQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF977A_WrongSubtraction\\CF977A_WrongSubtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

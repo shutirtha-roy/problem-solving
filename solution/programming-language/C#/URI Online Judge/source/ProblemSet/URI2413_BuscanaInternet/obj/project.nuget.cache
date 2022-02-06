@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8foHc1jWFlV19jWor4GGom++ui1uADQT7hiBvX+bBCE49x11arJRh3zSc4XylqcLaN8oB1pVX2KNf1aOmW7OsA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2413_BuscanaInternet\\URI2413_BuscanaInternet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

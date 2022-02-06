@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EF+UkRDbNpzAcmG6+GhSMbYsr5JyNn70yweQPLut6AyJtoxSs+TTrjpCSNO84pfGvtBpkYRtHdNy6IKzVTYSQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2936_HowMuchCassava\\URI2936_HowMuchCassava.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

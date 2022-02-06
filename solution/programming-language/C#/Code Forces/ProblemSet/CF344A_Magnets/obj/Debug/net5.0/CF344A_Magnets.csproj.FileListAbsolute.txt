@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\ref\CF344A_Magnets.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\bin\Debug\net5.0\CF344A_Magnets.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\ref\CF344A_Magnets.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF344A_Magnets\obj\Debug\net5.0\CF344A_Magnets.genruntimeconfig.cache

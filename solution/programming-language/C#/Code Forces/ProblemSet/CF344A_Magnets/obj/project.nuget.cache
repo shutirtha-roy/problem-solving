@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kI4BsG/0IvqNkStsuarkG43w0T9SRRhjAPKZf4dDruEU+Q8mhDblVgsHqNUQBu1gO+b92v4y/FnzJRxBstQGkg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF344A_Magnets\\CF344A_Magnets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

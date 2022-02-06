@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYIGfVcbDFQoFs6z9Si44mLRUnJVOzmGvKHj0f9FTtMEr1uSvRqt6MS98yk9hIopfXusoYdTADBcdEV5sGptsw==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF339A_HelpfulMaths\\CF339A_HelpfulMaths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

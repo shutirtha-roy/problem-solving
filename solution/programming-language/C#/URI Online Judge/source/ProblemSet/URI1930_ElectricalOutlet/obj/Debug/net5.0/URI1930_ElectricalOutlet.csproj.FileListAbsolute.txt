@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\ref\URI1930_ElectricalOutlet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\bin\Debug\net5.0\URI1930_ElectricalOutlet.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\ref\URI1930_ElectricalOutlet.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1930_ElectricalOutlet\obj\Debug\net5.0\URI1930_ElectricalOutlet.genruntimeconfig.cache

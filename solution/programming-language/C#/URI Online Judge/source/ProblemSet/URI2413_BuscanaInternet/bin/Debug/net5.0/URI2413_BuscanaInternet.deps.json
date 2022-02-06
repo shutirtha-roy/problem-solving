@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI2413_BuscanaInternet/1.0.0": {
+        "runtime": {
+          "URI2413_BuscanaInternet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI2413_BuscanaInternet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

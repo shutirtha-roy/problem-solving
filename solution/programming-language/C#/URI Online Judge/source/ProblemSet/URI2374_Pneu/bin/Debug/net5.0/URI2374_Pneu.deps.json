@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI2374_Pneu/1.0.0": {
+        "runtime": {
+          "URI2374_Pneu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI2374_Pneu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mjlt/nm32gblQNlfWxoCj6EDatHJwa6vO41AimtKqROST6W5PDtKLevi6fU3iKwGpz5443D0xfN9tY0nhI7ug==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI1929_Triangle\\URI1929_Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

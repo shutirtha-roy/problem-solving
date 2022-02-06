@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF136A_Presents/1.0.0": {
+        "runtime": {
+          "CF136A_Presents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF136A_Presents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

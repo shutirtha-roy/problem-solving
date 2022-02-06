@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "My477g9hzzTsG6NqImpQT2dp/hnlUd8wbC62XFrTY4Z5m9zDZF12/RwyG2CCtgtZKtl2beJXmYLj7wXWrhttKg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF282A_Bit++\\CF282A_Bit++.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

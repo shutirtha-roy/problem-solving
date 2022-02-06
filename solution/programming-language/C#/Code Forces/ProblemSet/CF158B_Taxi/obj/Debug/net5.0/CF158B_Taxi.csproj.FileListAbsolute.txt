@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\ref\CF158B_Taxi.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\bin\Debug\net5.0\CF158B_Taxi.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\ref\CF158B_Taxi.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF158B_Taxi\obj\Debug\net5.0\CF158B_Taxi.csproj.AssemblyReference.cache

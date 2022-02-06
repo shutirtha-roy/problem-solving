@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI3302_CorrectAnswer/1.0.0": {
+        "runtime": {
+          "URI3302_CorrectAnswer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI3302_CorrectAnswer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

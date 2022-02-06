@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI1858_TheonsAnswer/1.0.0": {
+        "runtime": {
+          "URI1858_TheonsAnswer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI1858_TheonsAnswer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

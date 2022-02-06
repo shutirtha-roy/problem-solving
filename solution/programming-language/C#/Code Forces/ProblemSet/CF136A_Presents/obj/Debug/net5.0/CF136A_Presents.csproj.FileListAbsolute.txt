@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\ref\CF136A_Presents.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\bin\Debug\net5.0\CF136A_Presents.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\ref\CF136A_Presents.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF136A_Presents\obj\Debug\net5.0\CF136A_Presents.genruntimeconfig.cache

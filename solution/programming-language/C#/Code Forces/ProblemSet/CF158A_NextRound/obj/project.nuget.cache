@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4Twb/Aalj7LAvI1Y0y6XyTCMyy8tOOXLWgQoqJMRg+UFRMNHeb+R0L2lkhrNsL14yxKoHqUPMwHQln+fangog==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF158A_NextRound\\CF158A_NextRound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

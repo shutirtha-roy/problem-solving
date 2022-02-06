@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "75zjBOQlOaMdOabgEsCjuf3PaIV3Mw1XjQ1NFj+tHa6fZ+1xKlZK7igyp/LVLozZ/x66AETpSRh777TPPxOc6w==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2388_Tacógrafo\\URI2388_Tacógrafo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

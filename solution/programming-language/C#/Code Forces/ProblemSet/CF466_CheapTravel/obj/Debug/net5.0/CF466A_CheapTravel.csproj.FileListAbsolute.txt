@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\ref\CF466A_CheapTravel.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\bin\Debug\net5.0\CF466A_CheapTravel.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\ref\CF466A_CheapTravel.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF466_CheapTravel\obj\Debug\net5.0\CF466A_CheapTravel.genruntimeconfig.cache

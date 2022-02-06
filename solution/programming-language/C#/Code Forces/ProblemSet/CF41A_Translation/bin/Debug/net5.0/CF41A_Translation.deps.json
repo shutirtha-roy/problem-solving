@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF41A_Translation/1.0.0": {
+        "runtime": {
+          "CF41A_Translation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF41A_Translation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

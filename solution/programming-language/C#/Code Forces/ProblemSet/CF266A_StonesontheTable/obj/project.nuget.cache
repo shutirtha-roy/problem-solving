@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N25TCZ/OEG7WhneOxOe0TS5T6fY7D32TewyQWfOnKVppirCZFxV7VWsxIaXf5dpZoQXt/fys/fNAMOl1UL2sfg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF266A_StonesontheTable\\CF266A_StonesontheTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

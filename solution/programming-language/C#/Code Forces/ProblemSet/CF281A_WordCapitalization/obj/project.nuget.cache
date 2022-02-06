@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiNOtWKLUposkM/POwVAqRqFBWo2WqCKRNsCkmOqcBHVx8eCe8tUrd1C2aAkjw7hzt/5iNqZbUVlM82VNC0icQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF281A_WordCapitalization\\CF281A_WordCapitalization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

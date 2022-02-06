@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9e9R/eyVxEfHGWfHdZbGLPxsiDc3HRggBvMlLD9af0TwnaezI/e8zL5L/McgpU6JEh3JbEeyxGllHrelWlNUKQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2861_TheOutput\\URI2861_TheOutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

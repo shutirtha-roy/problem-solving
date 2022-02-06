@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Ct6nKCnovkHuqsAwrnfuX/yOvNS2EMsZiCRPZT0dv4lgiyiPI+qJ5bBdsISWnxSeCAkNIazxKwRZqKl0gYFEA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF112A_PetyaandStrings\\CF112A_PetyaandStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

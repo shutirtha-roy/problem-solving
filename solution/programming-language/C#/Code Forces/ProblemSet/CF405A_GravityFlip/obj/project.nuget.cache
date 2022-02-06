@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k15bIDpn9kw8qOM0iLSk+L0ue7njqhUHQii48tcr9yvvc1RiXVaHorrZBgNIUW5nMnk1TMpRRG/1IcfhrQJGSg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF405A_GravityFlip\\CF405A_GravityFlip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

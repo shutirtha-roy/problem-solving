@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI1865_Mjolnir/1.0.0": {
+        "runtime": {
+          "URI1865_Mjolnir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI1865_Mjolnir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

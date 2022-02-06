@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\ref\URI1858_TheonsAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\bin\Debug\net5.0\URI1858_TheonsAnswer.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\ref\URI1858_TheonsAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1858_TheonsAnswer\obj\Debug\net5.0\URI1858_TheonsAnswer.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/1eCLTkyIj96Z0rNSFiN9Zu3NOu2EY/TbPasi+F9LEW3TdjLc4AVMfJLf0RC79DPWcrTEYHWgRKrvvJ911oMA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF136A_Presents\\CF136A_Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

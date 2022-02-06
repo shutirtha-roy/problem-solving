@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxgUt/0XhgV6bfWwkTIfJtIiRXMA8TFw0DfJLZLDcR/m8EKY/BGEd+/7Cg9oHqSS4xHQhQYDBpBfiKSymMTu7g==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF158B_Taxi\\CF158B_Taxi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

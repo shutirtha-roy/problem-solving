@@ -1,0 +1,32 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\ref\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\ref\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\ref\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\bin\Debug\net5.0\CF469A_IWannaBetheGuy.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\ref\CF469A_IWannaBetheGuy.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF469A_IWannaBetheGuy\obj\Debug\net5.0\CF469A_IWannaBetheGuy.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx0g6rIfWZ2jOPOU7AWd4ADbHLQTosqpH69jPa7+QdE3Pbbj3D2LJ9FWPxnCSVEpZBaRdx8PcKlseodRdUh+QQ==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2058_TrianglesandRegularPolygons\\URI2058_TrianglesandRegularPolygons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

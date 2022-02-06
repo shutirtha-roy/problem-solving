@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\ref\CF467_GeorgeandAccommodation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\bin\Debug\net5.0\CF467_GeorgeandAccommodation.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\ref\CF467_GeorgeandAccommodation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF467_GeorgeandAccommodation\obj\Debug\net5.0\CF467_GeorgeandAccommodation.genruntimeconfig.cache

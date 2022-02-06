@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\ref\CF131A_cAPSlOCK.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\bin\Debug\net5.0\CF131A_cAPSlOCK.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\ref\CF131A_cAPSlOCK.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF131A_cAPSlOCK\obj\Debug\net5.0\CF131A_cAPSlOCK.genruntimeconfig.cache

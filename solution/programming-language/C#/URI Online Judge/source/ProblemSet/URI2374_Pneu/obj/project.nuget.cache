@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSn8Xc3NCVMLDGJOJtwTEb5g87ibrGA4IEWru7JnooNNkOIIT1oCBFEynvl/mtOoX9BbF8Ntl370R3hNZMUbCg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI2374_Pneu\\URI2374_Pneu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

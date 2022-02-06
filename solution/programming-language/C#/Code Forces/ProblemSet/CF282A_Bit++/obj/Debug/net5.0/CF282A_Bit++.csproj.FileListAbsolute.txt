@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\ref\CF282A_Bit++.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\bin\Debug\net5.0\CF282A_Bit++.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\ref\CF282A_Bit++.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF282A_Bit++\obj\Debug\net5.0\CF282A_Bit++.genruntimeconfig.cache

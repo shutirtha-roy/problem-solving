@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI2749_Output3/1.0.0": {
+        "runtime": {
+          "URI2749_Output3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI2749_Output3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

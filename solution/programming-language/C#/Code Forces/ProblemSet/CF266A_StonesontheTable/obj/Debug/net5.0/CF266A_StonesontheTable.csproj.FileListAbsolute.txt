@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\ref\CF266A_StonesontheTable.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\bin\Debug\net5.0\CF266A_StonesontheTable.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\ref\CF266A_StonesontheTable.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF266A_StonesontheTable\obj\Debug\net5.0\CF266A_StonesontheTable.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF266A_StonesontheTable/1.0.0": {
+        "runtime": {
+          "CF266A_StonesontheTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF266A_StonesontheTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

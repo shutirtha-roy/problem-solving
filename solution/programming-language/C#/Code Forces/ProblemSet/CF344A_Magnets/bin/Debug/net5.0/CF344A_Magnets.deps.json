@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF344A_Magnets/1.0.0": {
+        "runtime": {
+          "CF344A_Magnets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF344A_Magnets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\ref\CF677A_VanyaandFence.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\bin\Debug\net5.0\CF677A_VanyaandFence.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\ref\CF677A_VanyaandFence.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF677A_VanyaandFence\obj\Debug\net5.0\CF677A_VanyaandFence.genruntimeconfig.cache

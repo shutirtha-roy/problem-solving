@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF112A_PetyaandStrings/1.0.0": {
+        "runtime": {
+          "CF112A_PetyaandStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF112A_PetyaandStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

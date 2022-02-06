@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\ref\URI2749_Output3.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\bin\Debug\net5.0\URI2749_Output3.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\ref\URI2749_Output3.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2749_Output3\obj\Debug\net5.0\URI2749_Output3.genruntimeconfig.cache

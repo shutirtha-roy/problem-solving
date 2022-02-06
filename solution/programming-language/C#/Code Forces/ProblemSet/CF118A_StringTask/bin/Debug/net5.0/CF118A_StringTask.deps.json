@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF118A_StringTask/1.0.0": {
+        "runtime": {
+          "CF118A_StringTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF118A_StringTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

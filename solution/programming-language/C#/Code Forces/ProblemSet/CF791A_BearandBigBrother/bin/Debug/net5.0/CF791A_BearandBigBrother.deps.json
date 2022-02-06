@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF791A_BearandBigBrother/1.0.0": {
+        "runtime": {
+          "CF791A_BearandBigBrother.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF791A_BearandBigBrother/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\ref\URI3302_CorrectAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\bin\Debug\net5.0\URI3302_CorrectAnswer.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\ref\URI3302_CorrectAnswer.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3302_Triangle\obj\Debug\net5.0\URI3302_CorrectAnswer.genruntimeconfig.cache

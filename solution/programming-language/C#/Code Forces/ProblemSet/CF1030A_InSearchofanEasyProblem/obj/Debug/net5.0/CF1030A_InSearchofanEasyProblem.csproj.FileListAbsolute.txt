@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\ref\CF1030A_InSearchofanEasyProblem.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\bin\Debug\net5.0\CF1030A_InSearchofanEasyProblem.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\ref\CF1030A_InSearchofanEasyProblem.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF1030A_InSearchofanEasyProblem\obj\Debug\net5.0\CF1030A_InSearchofanEasyProblem.genruntimeconfig.cache

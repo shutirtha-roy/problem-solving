@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\ref\CF339A_HelpfulMaths.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\bin\Debug\net5.0\CF339A_HelpfulMaths.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\ref\CF339A_HelpfulMaths.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF339A_HelpfulMaths\obj\Debug\net5.0\CF339A_HelpfulMaths.genruntimeconfig.cache

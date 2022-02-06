@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\ref\CF705A_Hulk.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\bin\Debug\net5.0\CF705A_Hulk.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\ref\CF705A_Hulk.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF705A_Hulk\obj\Debug\net5.0\CF705A_Hulk.genruntimeconfig.cache

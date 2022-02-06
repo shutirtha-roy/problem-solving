@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXAJC47loE9k65kxwp4WuALAJ9mXFexuijj9owF3V18pSC9kcivonnVR2541d8sd0Xyv2y1Kw2BNY4cG4OpJAw==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI3303_BigWord\\URI3303_BigWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

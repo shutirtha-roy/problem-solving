@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\ref\CF112A_PetyaandStrings.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\bin\Debug\net5.0\CF112A_PetyaandStrings.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\ref\CF112A_PetyaandStrings.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF112A_PetyaandStrings\obj\Debug\net5.0\CF112A_PetyaandStrings.csproj.AssemblyReference.cache

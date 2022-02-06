@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\ref\CF580A_KefaandFirstSteps.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\bin\Debug\net5.0\CF580A_KefaandFirstSteps.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\ref\CF580A_KefaandFirstSteps.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF580A_KefaandFirstSteps\obj\Debug\net5.0\CF580A_KefaandFirstSteps.genruntimeconfig.cache

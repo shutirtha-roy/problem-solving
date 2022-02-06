@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\ref\URI3303_BigWord.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\bin\Debug\net5.0\URI3303_BigWord.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\ref\URI3303_BigWord.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3303_BigWord\obj\Debug\net5.0\URI3303_BigWord.genruntimeconfig.cache

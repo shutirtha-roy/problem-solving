@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF466A_CheapTravel/1.0.0": {
+        "runtime": {
+          "CF466A_CheapTravel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF466A_CheapTravel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

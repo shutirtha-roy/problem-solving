@@ -1,0 +1,32 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\ref\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\ref\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.genruntimeconfig.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\ref\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\bin\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\ref\CF228A_IsYourHorseShoeoOTheOtherHoof.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\Code Forces\ProblemSet\CF228A_IsYourHorseShoeoOTheOtherHoof\obj\Debug\net5.0\CF228A_IsYourHorseShoeoOTheOtherHoof.genruntimeconfig.cache

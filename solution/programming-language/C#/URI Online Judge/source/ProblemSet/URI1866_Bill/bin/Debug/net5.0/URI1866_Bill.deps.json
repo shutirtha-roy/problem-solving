@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI1866_Bill/1.0.0": {
+        "runtime": {
+          "URI1866_Bill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI1866_Bill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

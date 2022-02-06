@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2O2rTUnMas+op34CM//uLJgC6EzF+BgBQI4C+oaFWSJWHTGIISRtYj+DePi27rsaFOs79NgKwyhbx2dg//7x+g==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI1924_VitóriaandHerIndecision\\URI1924_VitóriaandHerIndecision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

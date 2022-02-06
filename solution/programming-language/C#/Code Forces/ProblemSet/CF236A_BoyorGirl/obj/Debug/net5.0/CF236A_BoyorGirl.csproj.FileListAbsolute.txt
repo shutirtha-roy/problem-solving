@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\ref\CF236A_BoyorGirl.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\bin\Debug\net5.0\CF236A_BoyorGirl.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\ref\CF236A_BoyorGirl.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF236A_BoyorGirl\obj\Debug\net5.0\CF236A_BoyorGirl.genruntimeconfig.cache

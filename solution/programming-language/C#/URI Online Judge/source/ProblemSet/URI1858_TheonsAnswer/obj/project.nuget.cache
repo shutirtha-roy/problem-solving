@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXMueeWrMK57xKKOQAlEDydSJpzMPa/nzi2iIkQMFH5+vu2aFIuE9T7wWKXhCPckig9S7NrAseAdEYBJFcZVEA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI1858_TheonsAnswer\\URI1858_TheonsAnswer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\ref\CF69A_YoungPhysicist.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\bin\Debug\net5.0\CF69A_YoungPhysicist.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\ref\CF69A_YoungPhysicist.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF69A_YoungPhysicist\obj\Debug\net5.0\CF69A_YoungPhysicist.genruntimeconfig.cache

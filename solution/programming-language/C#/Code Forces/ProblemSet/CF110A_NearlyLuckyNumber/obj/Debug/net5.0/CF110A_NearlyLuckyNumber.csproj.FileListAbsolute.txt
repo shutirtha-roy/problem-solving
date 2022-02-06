@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\ref\CF110A_NearlyLuckyNumber.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\bin\Debug\net5.0\CF110A_NearlyLuckyNumber.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\ref\CF110A_NearlyLuckyNumber.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF110A_NearlyLuckyNumber\obj\Debug\net5.0\CF110A_NearlyLuckyNumber.genruntimeconfig.cache

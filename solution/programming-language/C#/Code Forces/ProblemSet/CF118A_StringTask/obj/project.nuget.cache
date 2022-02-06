@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz3AFmslODIn5m+kcR8qBTXr8BY+d3yCeW1PCLcd6691QwS8eiWdm3IRvuxdTZlYa/SMZpdDgaDbgV7Ceh1CPA==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF118A_StringTask\\CF118A_StringTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

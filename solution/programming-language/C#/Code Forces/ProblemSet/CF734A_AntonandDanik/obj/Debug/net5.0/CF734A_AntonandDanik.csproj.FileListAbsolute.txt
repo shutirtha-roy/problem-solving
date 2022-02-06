@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\ref\CF734A_AntonandDanik.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\bin\Debug\net5.0\CF734A_AntonandDanik.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\ref\CF734A_AntonandDanik.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF734A_AntonandDanik\obj\Debug\net5.0\CF734A_AntonandDanik.genruntimeconfig.cache

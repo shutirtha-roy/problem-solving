@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\ref\CF486_CalculatingFunction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\bin\Debug\net5.0\CF486_CalculatingFunction.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\ref\CF486_CalculatingFunction.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF486_CalculatingFunction\obj\Debug\net5.0\CF486_CalculatingFunction.genruntimeconfig.cache

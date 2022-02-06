@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\ref\URI2862_Insect!.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\bin\Debug\net5.0\URI2862_Insect!.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\ref\URI2862_Insect!.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI2862_Insect!\obj\Debug\net5.0\URI2862_Insect!.genruntimeconfig.cache

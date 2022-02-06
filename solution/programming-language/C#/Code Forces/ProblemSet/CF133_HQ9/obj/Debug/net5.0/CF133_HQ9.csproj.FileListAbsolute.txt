@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\ref\CF133_HQ9.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\bin\Debug\net5.0\CF133_HQ9.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\ref\CF133_HQ9.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF133_HQ9\obj\Debug\net5.0\CF133_HQ9.genruntimeconfig.cache

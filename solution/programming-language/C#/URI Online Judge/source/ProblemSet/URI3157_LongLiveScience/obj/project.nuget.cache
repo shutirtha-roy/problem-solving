@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaEmqtvY9ZbPF7s0HOcmZjc6sJNWNrLwueSU04CKAzOsw0cMJgwlgLg/IXOJoZFXBkipvAoYznjdHBAGFQNrjg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI3157_LongLiveScience\\URI3157_LongLiveScience.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

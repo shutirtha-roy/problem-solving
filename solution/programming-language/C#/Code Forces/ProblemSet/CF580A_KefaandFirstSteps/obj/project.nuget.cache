@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbiMIXyW1Ey12PTA7jEbv2fYQmyQGRt5upOdycA90eSnl0uFO+gD398p6wmPebaz40TFRWI2DvJKUbuG8otPmw==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF580A_KefaandFirstSteps\\CF580A_KefaandFirstSteps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

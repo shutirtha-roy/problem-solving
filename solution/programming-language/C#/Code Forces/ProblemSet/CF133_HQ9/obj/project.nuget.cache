@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9Zr8FVP8NK9TbbotNOz6i+CP/ClY23UioCtyW5YpznS1nj34tmHd5+AowCzuv95Yp6YSDSzOaWxxXALNSORyg==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\Problem Solving\\Websites for problem solving\\Code Forces\\ProblemSet\\CF133_HQ9\\CF133_HQ9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

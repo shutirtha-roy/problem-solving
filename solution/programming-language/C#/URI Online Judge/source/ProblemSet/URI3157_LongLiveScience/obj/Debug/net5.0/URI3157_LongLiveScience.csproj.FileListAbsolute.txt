@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\ref\URI3157_LongLiveScience.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\bin\Debug\net5.0\URI3157_LongLiveScience.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\ref\URI3157_LongLiveScience.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI3157_LongLiveScience\obj\Debug\net5.0\URI3157_LongLiveScience.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOv+3Bpq7VCL9WJNwtziZ/vbUIlijIf1A5fDguE6BWUEch+8wjrHVeW1nfM689sleYm46cjS2ShSODmhPTO+xw==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\C#\\problem-solving\\Websites for problem solving\\URI Online Judge\\source\\ProblemSet\\URI1865_Mjolnir\\URI1865_Mjolnir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

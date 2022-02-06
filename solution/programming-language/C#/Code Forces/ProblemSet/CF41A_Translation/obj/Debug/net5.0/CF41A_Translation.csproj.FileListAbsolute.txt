@@ -1,0 +1,15 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\ref\CF41A_Translation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\bin\Debug\net5.0\CF41A_Translation.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\ref\CF41A_Translation.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\CF41A_Translation\obj\Debug\net5.0\CF41A_Translation.genruntimeconfig.cache

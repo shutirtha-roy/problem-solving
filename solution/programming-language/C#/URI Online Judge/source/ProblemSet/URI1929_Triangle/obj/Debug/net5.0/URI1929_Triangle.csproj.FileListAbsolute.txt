@@ -1,0 +1,16 @@
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.exe
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.deps.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.runtimeconfig.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.runtimeconfig.dev.json
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\ref\URI1929_Triangle.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\bin\Debug\net5.0\URI1929_Triangle.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.csproj.AssemblyReference.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.AssemblyInfoInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.AssemblyInfo.cs
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.csproj.CoreCompileInputs.cache
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\ref\URI1929_Triangle.dll
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.pdb
+F:\Development\C#\Problem Solving\Websites for problem solving\URI Online Judge\source\ProblemSet\URI1929_Triangle\obj\Debug\net5.0\URI1929_Triangle.genruntimeconfig.cache

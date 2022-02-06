@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "URI2861_TheOutput/1.0.0": {
+        "runtime": {
+          "URI2861_TheOutput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URI2861_TheOutput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
