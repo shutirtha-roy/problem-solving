@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF1634A_ReverseandConcatenate/1.0.0": {
+        "runtime": {
+          "CF1634A_ReverseandConcatenate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF1634A_ReverseandConcatenate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

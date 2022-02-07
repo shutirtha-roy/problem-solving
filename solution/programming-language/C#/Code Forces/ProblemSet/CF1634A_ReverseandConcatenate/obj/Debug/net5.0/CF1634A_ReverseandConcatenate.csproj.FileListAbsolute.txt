@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\ref\CF1634A_ReverseandConcatenate.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\bin\Debug\net5.0\CF1634A_ReverseandConcatenate.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\ref\CF1634A_ReverseandConcatenate.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1634A_ReverseandConcatenate\obj\Debug\net5.0\CF1634A_ReverseandConcatenate.genruntimeconfig.cache
