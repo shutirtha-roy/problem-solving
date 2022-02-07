@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\ref\CF405A_GravityFlip.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\bin\Debug\net5.0\CF405A_GravityFlip.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\ref\CF405A_GravityFlip.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.genruntimeconfig.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF405A_GravityFlip\obj\Debug\net5.0\CF405A_GravityFlip.csproj.AssemblyReference.cache
