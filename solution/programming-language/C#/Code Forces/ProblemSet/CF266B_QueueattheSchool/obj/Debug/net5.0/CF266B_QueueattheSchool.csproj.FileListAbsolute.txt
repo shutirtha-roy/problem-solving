@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\ref\CF266B_QueueattheSchool.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\bin\Debug\net5.0\CF266B_QueueattheSchool.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\ref\CF266B_QueueattheSchool.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF266B_QueueattheSchool\obj\Debug\net5.0\CF266B_QueueattheSchool.genruntimeconfig.cache
