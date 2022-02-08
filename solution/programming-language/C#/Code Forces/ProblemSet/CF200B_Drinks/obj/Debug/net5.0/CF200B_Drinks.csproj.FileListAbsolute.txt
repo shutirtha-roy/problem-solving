@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\ref\CF200B_Drinks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\bin\Debug\net5.0\CF200B_Drinks.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\ref\CF200B_Drinks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF200B_Drinks\obj\Debug\net5.0\CF200B_Drinks.genruntimeconfig.cache

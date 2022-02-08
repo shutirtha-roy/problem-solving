@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF200B_Drinks/1.0.0": {
+        "runtime": {
+          "CF200B_Drinks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF200B_Drinks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
