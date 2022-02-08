@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF443A_AntonandLetters/1.0.0": {
+        "runtime": {
+          "CF443A_AntonandLetters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF443A_AntonandLetters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

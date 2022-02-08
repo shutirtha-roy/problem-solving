@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\ref\CF443A_AntonandLetters.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\bin\Debug\net5.0\CF443A_AntonandLetters.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\ref\CF443A_AntonandLetters.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF443A_AntonandLetters\obj\Debug\net5.0\CF443A_AntonandLetters.genruntimeconfig.cache
