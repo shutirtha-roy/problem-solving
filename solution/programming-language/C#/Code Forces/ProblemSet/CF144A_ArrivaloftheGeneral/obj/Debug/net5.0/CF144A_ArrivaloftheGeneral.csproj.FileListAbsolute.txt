@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\ref\CF144A_ArrivaloftheGeneral.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\bin\Debug\net5.0\CF144A_ArrivaloftheGeneral.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\ref\CF144A_ArrivaloftheGeneral.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF144A_ArrivaloftheGeneral\obj\Debug\net5.0\CF144A_ArrivaloftheGeneral.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF144A_ArrivaloftheGeneral/1.0.0": {
+        "runtime": {
+          "CF144A_ArrivaloftheGeneral.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF144A_ArrivaloftheGeneral/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
