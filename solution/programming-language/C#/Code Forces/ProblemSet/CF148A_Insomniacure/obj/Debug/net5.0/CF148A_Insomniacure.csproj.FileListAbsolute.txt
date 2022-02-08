@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\ref\CF148A_Insomniacure.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\bin\Debug\net5.0\CF148A_Insomniacure.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\ref\CF148A_Insomniacure.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF148A_Insomniacure\obj\Debug\net5.0\CF148A_Insomniacure.genruntimeconfig.cache
