@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\ref\CF520A_Pangram.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\bin\Debug\net5.0\CF520A_Pangram.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\ref\CF520A_Pangram.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF520A_Pangram\obj\Debug\net5.0\CF520A_Pangram.genruntimeconfig.cache

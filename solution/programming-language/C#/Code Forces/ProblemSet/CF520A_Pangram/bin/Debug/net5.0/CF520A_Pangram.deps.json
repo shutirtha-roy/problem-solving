@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF520A_Pangram/1.0.0": {
+        "runtime": {
+          "CF520A_Pangram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF520A_Pangram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
