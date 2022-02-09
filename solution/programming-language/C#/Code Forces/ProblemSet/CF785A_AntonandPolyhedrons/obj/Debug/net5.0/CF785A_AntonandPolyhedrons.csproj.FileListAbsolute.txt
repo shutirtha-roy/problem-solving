@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\ref\CF785A_AntonandPolyhedrons.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\bin\Debug\net5.0\CF785A_AntonandPolyhedrons.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\ref\CF785A_AntonandPolyhedrons.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF785A_AntonandPolyhedrons\obj\Debug\net5.0\CF785A_AntonandPolyhedrons.genruntimeconfig.cache
