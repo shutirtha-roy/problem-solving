@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\ref\CF141A_AmusingJoke.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\bin\Debug\net5.0\CF141A_AmusingJoke.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\ref\CF141A_AmusingJoke.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF141A_AmusingJoke\obj\Debug\net5.0\CF141A_AmusingJoke.genruntimeconfig.cache
