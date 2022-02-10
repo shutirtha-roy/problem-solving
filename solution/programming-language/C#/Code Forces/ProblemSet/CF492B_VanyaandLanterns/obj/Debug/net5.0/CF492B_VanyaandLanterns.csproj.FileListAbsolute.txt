@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\ref\CF492B_VanyaandLanterns.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\bin\Debug\net5.0\CF492B_VanyaandLanterns.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\ref\CF492B_VanyaandLanterns.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF492B_VanyaandLanterns\obj\Debug\net5.0\CF492B_VanyaandLanterns.genruntimeconfig.cache
