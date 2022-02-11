@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\ref\CF1633A_Div7.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\bin\Debug\net5.0\CF1633A_Div7.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\ref\CF1633A_Div7.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1633A_Div7\obj\Debug\net5.0\CF1633A_Div7.genruntimeconfig.cache
