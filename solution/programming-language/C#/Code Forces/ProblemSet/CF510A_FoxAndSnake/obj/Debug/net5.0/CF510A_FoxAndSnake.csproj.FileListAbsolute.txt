@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\ref\CF510A_FoxAndSnake.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\bin\Debug\net5.0\CF510A_FoxAndSnake.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\ref\CF510A_FoxAndSnake.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF510A_FoxAndSnake\obj\Debug\net5.0\CF510A_FoxAndSnake.genruntimeconfig.cache

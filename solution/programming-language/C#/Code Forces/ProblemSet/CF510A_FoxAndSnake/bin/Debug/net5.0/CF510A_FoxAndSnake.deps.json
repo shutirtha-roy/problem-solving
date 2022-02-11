@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF510A_FoxAndSnake/1.0.0": {
+        "runtime": {
+          "CF510A_FoxAndSnake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF510A_FoxAndSnake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
