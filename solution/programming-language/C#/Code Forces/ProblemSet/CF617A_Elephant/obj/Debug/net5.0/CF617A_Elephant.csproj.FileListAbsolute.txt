@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\ref\CF617A_Elephant.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\bin\Debug\net5.0\CF617A_Elephant.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\ref\CF617A_Elephant.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF617A_Elephant\obj\Debug\net5.0\CF617A_Elephant.genruntimeconfig.cache
