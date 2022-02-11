@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\ref\CF1505A_Isitrated.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\bin\Debug\net5.0\CF1505A_Isitrated.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\ref\CF1505A_Isitrated.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1505A_Isitrated\obj\Debug\net5.0\CF1505A_Isitrated.genruntimeconfig.cache
