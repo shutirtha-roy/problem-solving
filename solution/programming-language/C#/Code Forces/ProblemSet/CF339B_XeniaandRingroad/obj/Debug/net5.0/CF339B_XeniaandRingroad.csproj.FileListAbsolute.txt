@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\ref\CF339B_XeniaandRingroad.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\bin\Debug\net5.0\CF339B_XeniaandRingroad.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\ref\CF339B_XeniaandRingroad.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF339B_XeniaandRingroad\obj\Debug\net5.0\CF339B_XeniaandRingroad.genruntimeconfig.cache
