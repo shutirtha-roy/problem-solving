@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\ref\CF581A_VasyatheHipster.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\bin\Debug\net5.0\CF581A_VasyatheHipster.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\ref\CF581A_VasyatheHipster.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF581A_VasyatheHipster\obj\Debug\net5.0\CF581A_VasyatheHipster.genruntimeconfig.cache
