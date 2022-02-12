@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\ref\CF451A_GameWithSticks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\bin\Debug\net5.0\CF451A_GameWithSticks.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\ref\CF451A_GameWithSticks.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF451A_GameWithSticks\obj\Debug\net5.0\CF451A_GameWithSticks.genruntimeconfig.cache
