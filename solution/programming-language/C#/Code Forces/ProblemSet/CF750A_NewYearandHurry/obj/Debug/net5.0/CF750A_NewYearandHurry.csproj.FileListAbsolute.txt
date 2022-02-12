@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\ref\CF750A_NewYearandHurry.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\bin\Debug\net5.0\CF750A_NewYearandHurry.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\ref\CF750A_NewYearandHurry.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF750A_NewYearandHurry\obj\Debug\net5.0\CF750A_NewYearandHurry.genruntimeconfig.cache
