@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\ref\CF732A_BuyaShovel.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\bin\Debug\net5.0\CF732A_BuyaShovel.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\ref\CF732A_BuyaShovel.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF732A_BuyaShovel\obj\Debug\net5.0\CF732A_BuyaShovel.genruntimeconfig.cache
