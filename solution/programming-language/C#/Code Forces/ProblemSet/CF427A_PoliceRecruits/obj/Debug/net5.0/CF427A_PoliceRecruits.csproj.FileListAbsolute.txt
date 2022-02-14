@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\ref\CF427A_PoliceRecruits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\bin\Debug\net5.0\CF427A_PoliceRecruits.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\ref\CF427A_PoliceRecruits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF427A_PoliceRecruits\obj\Debug\net5.0\CF427A_PoliceRecruits.genruntimeconfig.cache
