@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\ref\CF1352A_SumofRoundNumbers.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\bin\Debug\net5.0\CF1352A_SumofRoundNumbers.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\ref\CF1352A_SumofRoundNumbers.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1352A_SumofRoundNumbers\obj\Debug\net5.0\CF1352A_SumofRoundNumbers.genruntimeconfig.cache
