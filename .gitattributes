@@ -1,3 +1,2 @@
-*.js    eol=lf
-*.jsx   eol=lf
-*.json  eol=lf
+* linguist-vendored
+*.py linguist-vendored=false
