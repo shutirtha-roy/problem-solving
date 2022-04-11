@@ -1,2 +1,6 @@
-solution/programming-language/Python/* linguist-documentation
-docs/formatter.rb linguist-documentation=false
+66.84%  264519     Ruby
+24.68%  97685      C
+6.57%   25999      Go
+1.29%   5098       Lex
+0.32%   1257       Shell
+0.31%   1212       Dockerfile
