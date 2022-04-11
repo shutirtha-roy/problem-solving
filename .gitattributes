@@ -1,2 +1,4 @@
 * linguist-vendored
-*.py linguist-vendored=false
+*.ipynb linguist-detectable=false
+*.cpp linguist-detectable=true
+*.cpp linguist-detectable=cs
