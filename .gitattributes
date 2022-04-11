@@ -1,0 +1,2 @@
+solution/programming-language/Python/* linguist-documentation
+docs/formatter.rb linguist-documentation=false
