@@ -1,4 +1,2 @@
 * linguist-vendored
-*.ipynb linguist-detectable=false
-*.cpp linguist-detectable=true
-*.cpp linguist-detectable=cs
+*.cpp linguist-vendored=false
