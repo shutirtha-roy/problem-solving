@@ -2,3 +2,4 @@
 *.cpp linguist-vendored=false
 *.cs linguist-vendored=false
 *.py linguist-vendored=false
+*.java linguist-vendored=false
