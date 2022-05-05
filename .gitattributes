@@ -1,5 +1,5 @@
 * linguist-vendored
 *.cpp linguist-vendored=false
-Program.cs linguist-vendored=false
+Program.cs linguist-vendored=true
 *.py linguist-vendored=false
 *.java linguist-vendored=false
