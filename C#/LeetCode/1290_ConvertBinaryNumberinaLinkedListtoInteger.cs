@@ -11,22 +11,13 @@
  */
 public class Solution {
     public int GetDecimalValue(ListNode head) {
-        ListNode tail = head;
-        List<int> binaryValues = new List<int>();
         int total = 0;
         
-        while(tail != null)
+        while(head != null)
         {
-            binaryValues.Add(tail.val);
-            tail = tail.next;
-        }
-        
-        for(int i = binaryValues.Count - 1, j = 0; i >= 0; i--, j++)
-        {
-            if(binaryValues[i] == 0)
-                continue;
-            
-            total += (1 << j);
+            total = (total << 1);
+            total += head.val;
+            head = head.next;
         }
         
         return total;
