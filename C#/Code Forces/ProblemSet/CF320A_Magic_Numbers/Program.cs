@@ -15,47 +15,16 @@ namespace CF320A_Magic_Numbers
                 {
                     if(i < value.Length - 2)
                     {
-                        if (int.Parse(value.Substring(i, 3)) == 144)
-                        {
-                            i += 3;
-                        }
-                        else if (int.Parse(value.Substring(i, 2)) == 14)
-                        {
-                            i += 2;
-                        }
-                        else if ((int)value[i] - '0' == 1)
-                        {
-                            i++;
-                        }
-                        else
-                        {
+                        if (int.Parse(value.Substring(i, 3)) == 444)
                             break;
-                        }
-                    }
-                    else if (i < value.Length - 1)
-                    {
-                        if (int.Parse(value.Substring(i, 2)) == 14)
-                        {
-                            i += 2;
-                        }
-                        else if ((int)value[i] - '0' == 1)
-                        {
-                            i++;
-                        }
-                        else
-                        {
-                            break;
-                        }
-                    }
-                    else if((int)value[i] - '0' == 1)
-                    {
-                        i++;
-                    }
-                    else
-                    {
-                        break;
                     }
                     
+                    if (value[0] != '1')
+                        break;
+                    else if ((int)value[i] - '0' != 1 && (int)value[i] - '0' != 4)
+                        break;
+
+                    i++;
                 }
 
                 if (i == value.Length)
