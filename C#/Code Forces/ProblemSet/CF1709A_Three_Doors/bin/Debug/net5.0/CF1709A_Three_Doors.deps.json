@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF1709A_Three_Doors/1.0.0": {
+        "runtime": {
+          "CF1709A_Three_Doors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF1709A_Three_Doors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

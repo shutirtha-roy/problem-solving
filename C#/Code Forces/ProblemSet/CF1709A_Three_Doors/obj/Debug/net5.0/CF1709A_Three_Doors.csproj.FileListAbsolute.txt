@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\ref\CF1709A_Three_Doors.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\bin\Debug\net5.0\CF1709A_Three_Doors.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\ref\CF1709A_Three_Doors.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1709A_Three_Doors\obj\Debug\net5.0\CF1709A_Three_Doors.genruntimeconfig.cache
