@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\ref\CF1230A_Dawid_and_Bags_of_Candies.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\bin\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\ref\CF1230A_Dawid_and_Bags_of_Candies.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1230A_Dawid_and_Bags_of_Candies\obj\Debug\net5.0\CF1230A_Dawid_and_Bags_of_Candies.genruntimeconfig.cache
