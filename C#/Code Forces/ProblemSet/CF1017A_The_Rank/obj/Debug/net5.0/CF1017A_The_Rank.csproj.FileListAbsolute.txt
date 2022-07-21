@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\ref\CF1017A_The_Rank.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\bin\Debug\net5.0\CF1017A_The_Rank.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\ref\CF1017A_The_Rank.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1017A_The_Rank\obj\Debug\net5.0\CF1017A_The_Rank.genruntimeconfig.cache

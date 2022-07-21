@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF1017A_The_Rank/1.0.0": {
+        "runtime": {
+          "CF1017A_The_Rank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF1017A_The_Rank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
