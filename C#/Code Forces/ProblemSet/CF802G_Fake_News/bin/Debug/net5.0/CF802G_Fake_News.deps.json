@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF802G_Fake_News/1.0.0": {
+        "runtime": {
+          "CF802G_Fake_News.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF802G_Fake_News/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

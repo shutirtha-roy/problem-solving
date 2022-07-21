@@ -1,0 +1,15 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\ref\CF802G_Fake_News.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\bin\Debug\net5.0\CF802G_Fake_News.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\ref\CF802G_Fake_News.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF802G_Fake_News\obj\Debug\net5.0\CF802G_Fake_News.genruntimeconfig.cache
