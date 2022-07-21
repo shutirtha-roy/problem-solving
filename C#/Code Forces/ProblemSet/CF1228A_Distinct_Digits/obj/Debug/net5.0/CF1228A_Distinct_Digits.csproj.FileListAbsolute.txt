@@ -1,0 +1,16 @@
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.exe
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.deps.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.runtimeconfig.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.runtimeconfig.dev.json
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\ref\CF1228A_Distinct_Digits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\bin\Debug\net5.0\CF1228A_Distinct_Digits.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.csproj.AssemblyReference.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.AssemblyInfoInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.AssemblyInfo.cs
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.csproj.CoreCompileInputs.cache
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\ref\CF1228A_Distinct_Digits.dll
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.pdb
+F:\Development\C#\problem-solving\Websites for problem solving\Code Forces\ProblemSet\CF1228A_Distinct_Digits\obj\Debug\net5.0\CF1228A_Distinct_Digits.genruntimeconfig.cache

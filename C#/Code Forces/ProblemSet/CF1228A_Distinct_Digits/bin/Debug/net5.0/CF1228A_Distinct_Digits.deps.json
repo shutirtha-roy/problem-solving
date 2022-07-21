@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF1228A_Distinct_Digits/1.0.0": {
+        "runtime": {
+          "CF1228A_Distinct_Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF1228A_Distinct_Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
