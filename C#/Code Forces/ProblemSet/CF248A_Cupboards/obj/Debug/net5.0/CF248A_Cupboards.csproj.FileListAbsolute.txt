@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\ref\CF248A_Cupboards.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\bin\Debug\net5.0\CF248A_Cupboards.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\ref\CF248A_Cupboards.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.genruntimeconfig.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF248A_Cupboards\obj\Debug\net5.0\CF248A_Cupboards.csproj.AssemblyReference.cache
