@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\ref\CF867A_Between_the_Offices.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\bin\Debug\net5.0\CF867A_Between_the_Offices.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\ref\CF867A_Between_the_Offices.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF867A_Between_the_Offices\obj\Debug\net5.0\CF867A_Between_the_Offices.genruntimeconfig.cache
