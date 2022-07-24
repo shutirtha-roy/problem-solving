@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF746A_Compote/1.0.0": {
+        "runtime": {
+          "CF746A_Compote.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF746A_Compote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

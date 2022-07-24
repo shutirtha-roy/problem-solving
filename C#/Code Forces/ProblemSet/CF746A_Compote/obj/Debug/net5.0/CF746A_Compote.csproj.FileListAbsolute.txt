@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\ref\CF746A_Compote.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\bin\Debug\net5.0\CF746A_Compote.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\ref\CF746A_Compote.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF746A_Compote\obj\Debug\net5.0\CF746A_Compote.genruntimeconfig.cache
