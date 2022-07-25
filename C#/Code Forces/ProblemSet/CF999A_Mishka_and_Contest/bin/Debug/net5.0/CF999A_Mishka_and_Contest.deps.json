@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF999A_Mishka_and_Contest/1.0.0": {
+        "runtime": {
+          "CF999A_Mishka_and_Contest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF999A_Mishka_and_Contest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

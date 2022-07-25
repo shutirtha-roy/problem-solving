@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\ref\CF999A_Mishka_and_Contest.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\bin\Debug\net5.0\CF999A_Mishka_and_Contest.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\ref\CF999A_Mishka_and_Contest.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF999A_Mishka_and_Contest\obj\Debug\net5.0\CF999A_Mishka_and_Contest.genruntimeconfig.cache
