@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\ref\CF38A_Army.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\bin\Debug\net5.0\CF38A_Army.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\ref\CF38A_Army.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF38A_Army\obj\Debug\net5.0\CF38A_Army.genruntimeconfig.cache
