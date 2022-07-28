@@ -12,14 +12,26 @@ public class Main {
  
         java.util.Scanner sc = new java.util.Scanner(System.in);
     
-        int[] array = new int[1000];
-        int T = sc.nextInt();
-        int i = 0;
-        for(int j = 0 ; j < array.length ; j++){
-            System.out.println("N[" + j + "] = " + i);
-            i++;
-            if(i % T == 0) i = 0;
+        int X = sc.nextInt();
+        int Y = sc.nextInt();
+        
+        
+        int sum = 0;
+        if(X < Y){
+          for(int i = X; i <= Y ; i++){
+            if(i % 13 != 0){
+              sum += i; 
+            }
           }
+        }
+        else{
+          for(int i = Y; i <= X ; i++){
+            if(i % 13 != 0){
+              sum += i; 
+            }
+          }
+        }
+        System.out.println(sum);
  
     }
  
