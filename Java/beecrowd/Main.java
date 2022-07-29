@@ -9,30 +9,30 @@ import java.io.IOException;
 public class Main {
  
     public static void main(String[] args) throws IOException {
- 
-        java.util.Scanner sc = new java.util.Scanner(System.in);
-    
-        int X = sc.nextInt();
-        int Y = sc.nextInt();
-        
-        
-        int sum = 0;
-        if(X < Y){
-          for(int i = X; i <= Y ; i++){
-            if(i % 13 != 0){
-              sum += i; 
-            }
-          }
+    java.util.Scanner sc = new java.util.Scanner(System.in);
+    int n = sc.nextInt();
+    int count = 1;
+    double a = 0;
+    double b = 0;
+    double result = 0;
+    int c = 0;
+    int d = 0;
+    while(count <= n){
+      a = sc.nextDouble();
+      b = sc.nextDouble();
+      if(b == 0.0){
+         c = (int)a;
+         d = (int)b;
         }
-        else{
-          for(int i = Y; i <= X ; i++){
-            if(i % 13 != 0){
-              sum += i; 
-            }
-          }
-        }
-        System.out.println(sum);
- 
+      try{
+        if(b == 0.0) result = c/d;
+        result = a/b; 
+        System.out.println(result);
+      }
+      catch(Exception e){
+        System.out.println("divisao impossivel");
+      }
+      count++;
     }
- 
+    }
 }
