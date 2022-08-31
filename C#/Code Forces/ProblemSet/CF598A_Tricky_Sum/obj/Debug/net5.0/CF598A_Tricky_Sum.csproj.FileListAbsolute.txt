@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.exe
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.deps.json
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.runtimeconfig.json
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.runtimeconfig.dev.json
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.dll
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\ref\CF598A_Tricky_Sum.dll
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\bin\Debug\net5.0\CF598A_Tricky_Sum.pdb
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.AssemblyInfo.cs
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.dll
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\ref\CF598A_Tricky_Sum.dll
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.pdb
+C:\Users\USER\source\repos\problem-solving\C#\Code Forces\ProblemSet\CF598A_Tricky_Sum\obj\Debug\net5.0\CF598A_Tricky_Sum.genruntimeconfig.cache

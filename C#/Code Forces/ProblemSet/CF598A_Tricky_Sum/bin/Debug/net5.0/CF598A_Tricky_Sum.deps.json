@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF598A_Tricky_Sum/1.0.0": {
+        "runtime": {
+          "CF598A_Tricky_Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF598A_Tricky_Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
