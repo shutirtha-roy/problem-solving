@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\ref\CF1092B_Teams_Forming.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\bin\Debug\net5.0\CF1092B_Teams_Forming.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\ref\CF1092B_Teams_Forming.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1092B_Teams_Forming\obj\Debug\net5.0\CF1092B_Teams_Forming.genruntimeconfig.cache
