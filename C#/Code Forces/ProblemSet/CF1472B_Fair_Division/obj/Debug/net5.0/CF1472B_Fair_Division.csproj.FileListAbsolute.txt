@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\ref\CF1472B_Fair_Division.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\bin\Debug\net5.0\CF1472B_Fair_Division.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\ref\CF1472B_Fair_Division.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472B_Fair_Division\obj\Debug\net5.0\CF1472B_Fair_Division.genruntimeconfig.cache
