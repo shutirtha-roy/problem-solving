@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\ref\CF1399B_Gifts_Fixing.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\bin\Debug\net5.0\CF1399B_Gifts_Fixing.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\ref\CF1399B_Gifts_Fixing.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.genruntimeconfig.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1399B_Gifts_Fixing\obj\Debug\net5.0\CF1399B_Gifts_Fixing.csproj.AssemblyReference.cache
