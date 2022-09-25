@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\ref\CF1624A_Plus_One_on_the_Subset.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\bin\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\ref\CF1624A_Plus_One_on_the_Subset.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1624A_Plus_One_on_the_Subset\obj\Debug\net5.0\CF1624A_Plus_One_on_the_Subset.genruntimeconfig.cache
