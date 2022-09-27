@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\ref\CF1371A_Magical_Sticks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\bin\Debug\net5.0\CF1371A_Magical_Sticks.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\ref\CF1371A_Magical_Sticks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1371A_Magical_Sticks\obj\Debug\net5.0\CF1371A_Magical_Sticks.genruntimeconfig.cache
