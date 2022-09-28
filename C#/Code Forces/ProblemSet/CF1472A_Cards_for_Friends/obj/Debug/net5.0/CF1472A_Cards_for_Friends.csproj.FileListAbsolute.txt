@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\ref\CF1472A_Cards_for_Friends.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\bin\Debug\net5.0\CF1472A_Cards_for_Friends.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\ref\CF1472A_Cards_for_Friends.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1472A_Cards_for_Friends\obj\Debug\net5.0\CF1472A_Cards_for_Friends.genruntimeconfig.cache
