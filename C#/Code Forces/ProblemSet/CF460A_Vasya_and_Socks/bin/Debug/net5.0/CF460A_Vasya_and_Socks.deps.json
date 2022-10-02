@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF460A_Vasya_and_Socks/1.0.0": {
+        "runtime": {
+          "CF460A_Vasya_and_Socks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF460A_Vasya_and_Socks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

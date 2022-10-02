@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\ref\CF460A_Vasya_and_Socks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\bin\Debug\net5.0\CF460A_Vasya_and_Socks.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\ref\CF460A_Vasya_and_Socks.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF460A_Vasya_and_Socks\obj\Debug\net5.0\CF460A_Vasya_and_Socks.genruntimeconfig.cache
