@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\ref\CF977B_Two_gram.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\bin\Debug\net5.0\CF977B_Two_gram.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\ref\CF977B_Two_gram.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF977B_Two_gram\obj\Debug\net5.0\CF977B_Two_gram.genruntimeconfig.cache
