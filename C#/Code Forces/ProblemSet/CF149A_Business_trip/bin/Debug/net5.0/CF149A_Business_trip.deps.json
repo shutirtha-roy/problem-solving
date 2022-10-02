@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF149A_Business_trip/1.0.0": {
+        "runtime": {
+          "CF149A_Business_trip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF149A_Business_trip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

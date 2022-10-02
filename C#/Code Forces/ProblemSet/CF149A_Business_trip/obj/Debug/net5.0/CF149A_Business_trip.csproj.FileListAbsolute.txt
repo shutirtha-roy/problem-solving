@@ -1,0 +1,15 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\ref\CF149A_Business_trip.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\bin\Debug\net5.0\CF149A_Business_trip.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\ref\CF149A_Business_trip.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF149A_Business_trip\obj\Debug\net5.0\CF149A_Business_trip.genruntimeconfig.cache
