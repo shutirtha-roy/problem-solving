@@ -1,0 +1,16 @@
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.exe
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.deps.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.runtimeconfig.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.runtimeconfig.dev.json
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\ref\CF1342A_Road_To_Zero.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\bin\Debug\net5.0\CF1342A_Road_To_Zero.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.csproj.AssemblyReference.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.AssemblyInfoInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.AssemblyInfo.cs
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.csproj.CoreCompileInputs.cache
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\ref\CF1342A_Road_To_Zero.dll
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.pdb
+F:\Development\C++\Repo\problem-solving\C#\Code Forces\ProblemSet\CF1342A_Road_To_Zero\obj\Debug\net5.0\CF1342A_Road_To_Zero.genruntimeconfig.cache
