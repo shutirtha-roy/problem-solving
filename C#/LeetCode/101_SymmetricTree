@@ -1,0 +1,23 @@
+//TC: O(N), where N is the size of the root
+//MC: O(1)
+public class Solution {
+    private bool IsMirror(TreeNode p, TreeNode q)
+    {
+        if(p == null && q == null)
+            return true;
+
+        if(p == null || q == null)
+            return false;
+
+        return (p.val == q.val) && 
+            IsMirror(p.left, q.right) && 
+            IsMirror(p.right, q.left);
+    }
+
+    public bool IsSymmetric(TreeNode root) {
+        if(root == null)
+            return true;
+
+        return IsMirror(root.left, root.right);
+    }
+}
