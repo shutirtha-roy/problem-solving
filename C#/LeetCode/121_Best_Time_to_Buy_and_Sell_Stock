@@ -1,0 +1,20 @@
+//N: size of the prices
+//MC: O(1)
+//TC: O(N)
+
+public class Solution 
+{
+    public int MaxProfit(int[] prices) 
+    {
+        var minBuyingPrice = Int32.MaxValue;
+        var profit = 0;
+
+        for(var i = 0; i < prices.Length - 1; i++)
+        {
+            minBuyingPrice = (minBuyingPrice > prices[i]) ? prices[i] : minBuyingPrice;
+            profit = (prices[i + 1] - minBuyingPrice > profit) ? prices[i + 1] - minBuyingPrice : profit;
+        }
+
+        return profit;
+    }
+}
