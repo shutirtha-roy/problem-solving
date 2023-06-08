@@ -9,13 +9,6 @@ public class Task1
             select beat).Count();
     }
 
-    private int CheckWhetherPointerExceedsLength(int pointer, int length)
-    {
-        return pointer == length
-                ? 0
-                : pointer;
-    }
-
     public int[] PlayRight(int[] sequence, int[] beats)
     {
         var totalBeats = CalculateTotalBeats(beats);
