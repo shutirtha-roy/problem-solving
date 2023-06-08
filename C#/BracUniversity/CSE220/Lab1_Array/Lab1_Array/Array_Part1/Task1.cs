@@ -19,16 +19,16 @@ public class Task1
     public int[] PlayRight(int[] sequence, int[] beats)
     {
         var totalBeats = CalculateTotalBeats(beats);
-        var afterRightSequence = new int[sequence.Length];
         var pointer = totalBeats;
 
-        for(var index = 0; index < sequence.Length; index++)
+        for(var index = 0; index < sequence.Length / 2; index++)
         {
-            pointer = CheckWhetherPointerExceedsLength(pointer, sequence.Length);
-            afterRightSequence[pointer] = sequence[index];
+            var position = sequence[pointer];
+            sequence[pointer] = sequence[index];
+            sequence[index] = position;
             pointer++;
         }
 
-        return afterRightSequence;
+        return sequence;
     }
 }
