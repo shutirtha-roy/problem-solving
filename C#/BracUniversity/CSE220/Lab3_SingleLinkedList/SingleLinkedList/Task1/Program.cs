@@ -1,4 +1,5 @@
 ﻿using Task1;
+using LinkedListGenerator;
 
 public class Program
 {
@@ -6,9 +7,9 @@ public class Program
     {
         var solution = new Solution();
 
-        var head = solution
-            .PopulateList(new int[] { 10, 15, 34, 41, 56, 72 });
-            //.PopulateList(new int[] { 10, 15, 44, 41, 56, 72 });
+        var head = new LinkedListModel()
+            //.PopulateList(new int[] { 10, 15, 34, 41, 56, 72 });
+            .PopulateList(new int[] { 10, 15, 44, 41, 56, 72 });
 
         var result = solution
             .CheckIfListAscending(head);
