@@ -15,4 +15,15 @@ public class LinkedListModel
 
         return head;
     }
+
+    public void PrintList(ListNode head)
+    {
+        while (head != null)
+        {
+            Console.Write($"{head.val} ");
+            head = head.next;
+        }
+
+        Console.WriteLine();
+    }
 }

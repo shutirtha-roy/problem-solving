@@ -10,10 +10,10 @@ public class Program
         var head = new LinkedListModel()
             .PopulateList(new int[] { 10, 15, 34, 41, 56, 72 });
 
-        //var result = solution
-            //.CheckIfListAscending(head);
+        var result = solution
+            .GetModifiedCompartmentSequence(head, 6);
 
-        //Console.WriteLine(result);
+        new LinkedListModel().PrintList(result);
     }
 
 

@@ -28,8 +28,23 @@ public class Solution
             return head;
         }
 
+        if(positionBeforeItem == 0)
+        {
+            head = head.next;
+            return head;
+        }
 
+        var currentNode = head;
+        var count = 1;
 
-        return new ListNode();
+        while(count < positionBeforeItem) 
+        {
+            count++;
+            currentNode = currentNode.next;
+        }
+
+        currentNode.next = currentNode.next.next;
+
+        return head;
     }
 }
