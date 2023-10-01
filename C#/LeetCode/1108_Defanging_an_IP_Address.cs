@@ -1,13 +1,24 @@
-public class Solution {
-    public string DefangIPaddr(string address) {
-        string[] newAddresses = address.Split('.');
-        string newPattern = "";
+//TC: O(N), where N is the length of the string
+//MC: O(N)
+
+public class Solution 
+{
+    public string DefangIPaddr(string address) 
+    {
+        var defrangedIP = string.Empty;
+        var dot = '.';
         
-        foreach(string newAddress in newAddresses)
+        foreach (var character in address)
         {
-            newPattern += $"{newAddress}[.]";
+            if(character == '.') 
+            {
+                defrangedIP += "[.]";
+                continue;
+            }
+
+            defrangedIP += character;
         }
-        
-        return newPattern.Substring(0, newPattern.Length - 3);
+
+        return defrangedIP;
     }
 }
